@@ -1,0 +1,21 @@
+--2025-07-28 16:37:48--  https://media.istockphoto.com/id/1253207644/photo/pug-using-laptop-on-sofa.jpg?s=1024x1024
+Resolving media.istockphoto.com (media.istockphoto.com)... 3.162.103.101, 3.162.103.56, 3.162.103.60, ...
+Connecting to media.istockphoto.com (media.istockphoto.com)|3.162.103.101|:443... failed: Connection timed out.
+Connecting to media.istockphoto.com (media.istockphoto.com)|3.162.103.56|:443... failed: Connection timed out.
+Connecting to media.istockphoto.com (media.istockphoto.com)|3.162.103.60|:443... failed: Connection timed out.
+Connecting to media.istockphoto.com (media.istockphoto.com)|3.162.103.75|:443... failed: Connection timed out.
+Connecting to media.istockphoto.com (media.istockphoto.com)|3.162.103.101|:443... failed: Connection timed out.
+Connecting to media.istockphoto.com (media.istockphoto.com)|3.162.103.56|:443... failed: Connection timed out.
+Connecting to media.istockphoto.com (media.istockphoto.com)|3.162.103.60|:443... failed: Connection timed out.
+Connecting to media.istockphoto.com (media.istockphoto.com)|3.162.103.75|:443... failed: Connection timed out.
+Retrying.
+
+--2025-07-28 16:55:49--  (try: 2)  https://media.istockphoto.com/id/1253207644/photo/pug-using-laptop-on-sofa.jpg?s=1024x1024
+Connecting to media.istockphoto.com (media.istockphoto.com)|3.162.103.101|:443... failed: Connection timed out.
+Connecting to media.istockphoto.com (media.istockphoto.com)|3.162.103.56|:443... failed: Connection timed out.
+Connecting to media.istockphoto.com (media.istockphoto.com)|3.162.103.60|:443... failed: Connection timed out.
+Connecting to media.istockphoto.com (media.istockphoto.com)|3.162.103.75|:443... failed: Connection timed out.
+Connecting to media.istockphoto.com (media.istockphoto.com)|3.162.103.101|:443... failed: Connection timed out.
+Connecting to media.istockphoto.com (media.istockphoto.com)|3.162.103.56|:443... failed: Connection timed out.
+Connecting to media.istockphoto.com (media.istockphoto.com)|3.162.103.60|:443... failed: Connection timed out.
+Connecting to media.istockphoto.com (media.istockphoto.com)|3.162.103.75|:443... 
